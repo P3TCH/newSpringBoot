@@ -1,4 +1,4 @@
-package com.example.learning.repository;
+package com.example.learning.service;
 
 public class Factorial {
     public int getFactorial(int input){
